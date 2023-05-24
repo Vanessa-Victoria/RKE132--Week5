@@ -1,0 +1,15 @@
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net6.0\ANDOperator.exe
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net6.0\ANDOperator.deps.json
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net6.0\ANDOperator.runtimeconfig.json
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net6.0\ANDOperator.dll
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net6.0\ANDOperator.pdb
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.csproj.AssemblyReference.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.AssemblyInfoInputs.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.AssemblyInfo.cs
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.dll
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\refint\ANDOperator.dll
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.pdb
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ANDOperator.genruntimeconfig.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net6.0\ref\ANDOperator.dll

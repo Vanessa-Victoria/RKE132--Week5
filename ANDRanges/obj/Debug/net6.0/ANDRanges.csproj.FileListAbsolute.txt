@@ -1,0 +1,15 @@
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.exe
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.deps.json
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.runtimeconfig.json
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.dll
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\bin\Debug\net6.0\ANDRanges.pdb
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.csproj.AssemblyReference.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.AssemblyInfoInputs.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.AssemblyInfo.cs
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.dll
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\refint\ANDRanges.dll
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.pdb
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ANDRanges.genruntimeconfig.cache
+C:\Users\Vanessa\source\repos\Week5LogicalOperators\ANDRanges\obj\Debug\net6.0\ref\ANDRanges.dll
